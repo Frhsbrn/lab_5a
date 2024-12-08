@@ -14,23 +14,23 @@
     ?>
     <table border="1">
         <tr>
-            <td>Name</td>
+            <td>NOR FARAH SABRINA BINTI ROSLI</td>
             <td><?php echo $name; ?></td>
         </tr>
         <tr>
-            <td>Matric Number</td>
+            <td>DI220044</td>
             <td><?php echo $matricNumber; ?></td>
         </tr>
         <tr>
-            <td>Course</td>
+            <td>BIP</td>
             <td><?php echo $course; ?></td>
         </tr>
         <tr>
-            <td>Year of Study</td>
+            <td>3</td>
             <td><?php echo $yearOfStudy; ?></td>
         </tr>
         <tr>
-            <td>Address</td>
+            <td>NO 65 LALUAN KLEBANG JAYA 42, TAMAN KLEBANG JAYA 312O0 CHEMOR PERAK</td>
             <td><?php echo $address; ?></td>
         </tr>
     </table>
