@@ -6,31 +6,31 @@
 <body>
     <?php
         // Declare variables for personal details
-        $name = "Your Name"; // Replace with your actual name
-        $matricNumber = "Your Matric Number"; // Replace with your matric number
-        $course = "Your Course"; // Replace with your course
-        $yearOfStudy = "Your Year of Study"; // Replace with your year
-        $address = "Your Address"; // Replace with your address
+        $name = "NOR FARAH SABRINA BINTI ROSLI"; // Replace with your actual name
+        $matricNumber = "DI220044"; // Replace with your matric number
+        $course = "BIP"; // Replace with your course
+        $yearOfStudy = "3"; // Replace with your year
+        $address = "IPOH, PERAK"; // Replace with your address
     ?>
     <table border="1">
         <tr>
-            <td>NOR FARAH SABRINA BINTI ROSLI</td>
+            <td>Name</td>
             <td><?php echo $name; ?></td>
         </tr>
         <tr>
-            <td>DI220044</td>
+            <td>Matric Number</td>
             <td><?php echo $matricNumber; ?></td>
         </tr>
         <tr>
-            <td>BIP</td>
+            <td>Course</td>
             <td><?php echo $course; ?></td>
         </tr>
         <tr>
-            <td>3</td>
+            <td>Year of Study</td>
             <td><?php echo $yearOfStudy; ?></td>
         </tr>
         <tr>
-            <td>NO 65 LALUAN KLEBANG JAYA 42, TAMAN KLEBANG JAYA 312O0 CHEMOR PERAK</td>
+            <td>Address</td>
             <td><?php echo $address; ?></td>
         </tr>
     </table>
